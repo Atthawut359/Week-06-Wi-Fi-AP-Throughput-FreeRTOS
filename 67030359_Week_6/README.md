@@ -1,7 +1,7 @@
 # Week 06 — ESP32 Wi-Fi SoftAP, RSSI Speed Profiler, FreeRTOS Sensor Queue & IoT Web Dashboard
 
 **รหัสนักศึกษา:** 67030359  
-**ชื่อ-นามสกุล:** นายอัฐวุฒิ บัวเรียน (Attawut Bualian)  
+**ชื่อ-นามสกุล:** นายอัฐวุฒิ บัวเรียน (Attawut Buarean)  
 **วิชา:** ระบบสมองกลฝังตัวและการเชื่อมต่อเครือข่าย (Embedded Systems & IoT)  
 **บอร์ดทดลอง:** ESP32 (ESP32-D0WD-V3) | **MAC Address:** `84:1F:E8:39:81:75`  
 **โต๊ะปฏิบัติการ:** โต๊ะที่ 1  
